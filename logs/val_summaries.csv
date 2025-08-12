@@ -1,0 +1,5 @@
+time,tag,val_best,val_last,curve_file,log_file
+2025-08-09T17:07:04,bi256_aug_lr3e-4_e30,,,logs\val_curve_bi256_aug_lr3e-4_e30.csv,logs\train_bi256_aug_lr3e-4_e30.txt
+2025-08-09T17:09:56,bi256_aug_lr3e-4_e30,0.4458,0.4868,logs\val_curve_bi256_aug_lr3e-4_e30.csv,logs\train_bi256_aug_lr3e-4_e30_utf8.txt
+2025-08-09T19:22:39,bi256_aug_clswt_e20,0.7078,0.7193,logs\val_curve_bi256_aug_clswt_e20.csv,logs\train_bi256_aug_clswt_e20.txt
+2025-08-09T21:19:20,bi256_aug_early_e20,0.5808,0.5808,logs\val_curve_bi256_aug_early_e20.csv,logs\train_bi256_aug_early_e20.txt

@@ -1,0 +1,25 @@
+﻿# OS / IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+__pycache__/
+
+# Python
+*.pyc
+*.pyo
+.venv/
+venv/
+
+# Data (do NOT push raw frames)
+data/golfdb_frames/
+data/*.mp4
+*.zip
+
+# Models (可选：若模型文件较大，建议用 Release 附件或 Git LFS)
+# 若决定不进Git历史，就忽略：
+# models/*.pth
+# *.pt
+
+# Logs可保留CSV/图，但训练大日志可只留关键几份
+logs/*.log
